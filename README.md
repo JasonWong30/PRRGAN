@@ -6,11 +6,11 @@ This is official Pytorch implementation of "[Generative Adversarial Network for 
 
 ## To Test TMIF
 
-Run ```**CUDA_VISIBLE_DEVICES=0 python Test_v2.py**``` to test the model.
+Run ```**CUDA_VISIBLE_DEVICES=0 python Test_v2.py**``` to test the model. Note that DMIF checkpoint is output_dir/checkpoint-120.pth
 
 ## To Test DMiF
 
-Run ```**CUDA_VISIBLE_DEVICES=0 python Test_DMIF.py**``` to test the model.
+Run ```**CUDA_VISIBLE_DEVICES=0 python Test_DMIF.py**``` to test the model. Note that TMIF checkpoint is output_dir/checkpoint-650.pth
 
 ## Recommended Environment
 
