@@ -1,6 +1,6 @@
 
 
-#  SeAFusion
+#  PRRGAN
 
 This is official Pytorch implementation of "[Generative Adversarial Network for Trimodal Medical Image Fusion using Primitive Relationship Reasoning]"
 
