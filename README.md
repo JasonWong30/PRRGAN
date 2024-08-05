@@ -21,7 +21,7 @@ If this work is helpful to you, please cite it as:
   year={2024},
   publisher={IEEE}
 }
-}
+
 ```
 
 ## Recommended Environment
