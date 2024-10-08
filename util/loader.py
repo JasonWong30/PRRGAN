@@ -45,7 +45,7 @@ class Med_dataset(Dataset):
 
 class Med_dataset_DMIF(Dataset):
     def __init__(self, data_dir, sub_dir, mode, transform):
-        super(Med_dataset, self).__init__()
+        super(Med_dataset_DMIF, self).__init__()
         assert mode in ['train', 'valid', 'test']
         self.mode = mode
         self.root_dir = os.path.join(data_dir, sub_dir)
