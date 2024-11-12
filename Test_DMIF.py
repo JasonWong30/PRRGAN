@@ -66,10 +66,6 @@ if __name__ == '__main__':
     ## dataset
     parser.add_argument('--data_dir', '-data_dir', type=str, default='./data')
     parser.add_argument('--save_dir', '-save_dir', type=str, default='./M3-UNet')
-    parser.add_argument('--model_vi', default='./saved_checkpoint/checkpoint-400-vi.pth', type=str,
-                        help='GPUs used for training')
-    parser.add_argument('--model_ir', default='./saved_checkpoint/checkpoint-400-ir.pth', type=str,
-                        help='GPUs used for training')
     parser.add_argument('--batch_size', '-B', type=int, default=1)
     parser.add_argument('--gpu', '-G', type=int, default=0)
     parser.add_argument('--num_workers', '-j', type=int, default=8)
