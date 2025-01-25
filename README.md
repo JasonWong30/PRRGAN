@@ -70,7 +70,7 @@ The data structure should be followed like:
              ├── 2.png
              ├── ...
 ```
-The user also modify the ./util/loader.py according to their preferences。
+The user also could modify the ./util/loader.py according to their preferences。
 
 ### 🏄 3. Inference
 
@@ -92,11 +92,11 @@ The user can modify the argument args.save_dir to locate their own save path.
 
 ## 🙌 PRRGAN
 
-### Illustration of our DDFM model.
+### Illustration of our PRRGAN model.
 
 <img src="image//Workflow1.png" width="60%" align=center />
 
-### Detail of DDFM.
+### Detail of PRRGAN.
 
 
 ### Qualitative fusion results.
