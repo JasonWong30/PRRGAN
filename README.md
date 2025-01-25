@@ -108,7 +108,8 @@ The user can modify the argument args.save_dir to locate their own save path.
 
 ### Quantitative fusion results.
 
-<img src="Fig//Metrics.jpg" width="60%" align=center />
+<img src="Fig//Metrics.jpg" width="50%" align=center />
 
 ## 📖 Related Work
-- Zixiang Zhao, Lilun Deng, Haowen Bai, Yukun Cui, Zhipeng Zhang, Yulun Zhang, Haotong Qin, Dongdong Chen, Jiangshe Zhang, Peng Wang, Luc Van Gool. *Image Fusion via Vision-Language Model.* **ICML 2024**. https://arxiv.org/abs/2402.02235.
+- Jingxue Huang, Xiaosong Li, Haishu Ta, Xiaoqi Cheng. Multimodal Medical Image Fusion Based on Multichannel Aggregated Network. The 12th International Conference on Image and Graphics (ICIG), 2023, Nanjing, China. September 22–24. https://link.springer.com/chapter/10.1007/978-3-031-46317-4_2
+- Jingxue Huang, Tianshu Tan, Xiaosong Li, Tao Ye, Yanxiong Wu, Multiple Attention Channels Aggregated Network for Multimodal Medical Image Fusion, Medical Physics. https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17607
