@@ -96,26 +96,19 @@ The user can modify the argument args.save_dir to locate their own save path.
 
 <img src="Fig//Framework.jpg" width="60%" align=center />
 
-<img src="Fig//GCN.jpg" width="60%" align=center />
-
-<img src="Fig//Share-paramter" width="60%" align=center />
-
 ### Detail of PRRGAN.
 
+<img src="Fig//GCN.jpg" width="60%" align=center />
+
+<img src="Fig//Share-paramter.jpg" width="60%" align=center />
 
 ### Qualitative fusion results.
 
+<img src="Fig//CT-T2-SPECT.jpg" width="60%" align=center />
 
 ### Quantitative fusion results.
 
-Infrared-Visible Image Fusion
-
-<img src="image//Quantitative_IVF.png" width="100%" align=center />
-
-Medical Image Fusion
-
-<img src="image//Quantitative_MIF.png" width="60%" align=center />
+<img src="Fig//Metrics.jpg" width="60%" align=center />
 
 ## 📖 Related Work
 - Zixiang Zhao, Lilun Deng, Haowen Bai, Yukun Cui, Zhipeng Zhang, Yulun Zhang, Haotong Qin, Dongdong Chen, Jiangshe Zhang, Peng Wang, Luc Van Gool. *Image Fusion via Vision-Language Model.* **ICML 2024**. https://arxiv.org/abs/2402.02235.
-- Zixiang Zhao, Haowen Bai, Jiangshe Zhang, Yulun Zhang, Kai Zhang, Shuang Xu, Dongdong Chen, Radu Timofte, Luc Van Gool. *Equivariant Multi-Modality Image Fusion.* **CVPR 2024**. https://arxiv.org/abs/2305.11443
