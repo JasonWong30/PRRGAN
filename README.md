@@ -108,7 +108,7 @@ The user can modify the argument args.save_dir to locate their own save path.
 
 ### Quantitative fusion results.
 
-<img src="Fig//Metrics.jpg" width="50%" align=center />
+<img src="Fig//Metrics.jpg" width="60%" align=center />
 
 ## 📖 Related Work
 - Jingxue Huang, Xiaosong Li, Haishu Ta, Xiaoqi Cheng. Multimodal Medical Image Fusion Based on Multichannel Aggregated Network. The 12th International Conference on Image and Graphics (ICIG), 2023, Nanjing, China. September 22–24. https://link.springer.com/chapter/10.1007/978-3-031-46317-4_2
