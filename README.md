@@ -2,12 +2,12 @@
 
 Codes for ***Generative Adversarial Network for Trimodal Medical Image Fusion using Primitive Relationship Reasoning. (JBHI 2024)***
 
-[Jingxue Huang](https://github.com/JasonWong30), [Xiaosong Li](https://github.com/lxs6), [Haishu Tan](https://www.fosu.edu.cn/mee/teachers/teachers-external/25647.html), [Xiaoqi Cheng]([http://gr.xjtu.edu.cn/web/jszhang](https://www.fosu.edu.cn/mee/teachers/teachers-jxdzgcx/20469.html))
+[Jingxue Huang](https://github.com/JasonWong30), [Xiaosong Li](https://github.com/lxs6), [Haishu Tan](https://www.fosu.edu.cn/mee/teachers/teachers-external/25647.html), [Xiaoqi Cheng](https://www.fosu.edu.cn/mee/teachers/teachers-jxdzgcx/20469.html)
 
 -[*[Paper]*](https://ieeexplore.ieee.org/abstract/document/10620611)    
 
 ## Update
-- [2025-1] readme was modified.
+- [2025-1] README.md was modified.
 - [2024-6] Codes and config files are public available.
 
 ## Citation
