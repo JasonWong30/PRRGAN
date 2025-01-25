@@ -96,6 +96,10 @@ The user can modify the argument args.save_dir to locate their own save path.
 
 <img src="Fig//Framework.jpg" width="60%" align=center />
 
+<img src="Fig//GCN.jpg" width="60%" align=center />
+
+<img src="Fig//Share-paramter" width="60%" align=center />
+
 ### Detail of PRRGAN.
 
 
