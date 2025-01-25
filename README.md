@@ -38,7 +38,39 @@ Medical image fusion has become a hot biomedical image processing technology in 
 
 ### 🏊 2. Data Preparation
 
-Download the Infrared-Visible Fusion (IVF) and Medical Image Fusion (MIF) dataset and place the paired images in the folder ``'./input/'``.
+Download the Tri-modal image fusion dataset at the [link](https://drive.google.com/drive/folders/1AC_pBejX00iBUKnXWKi73_4Ns7jCtNDZ) and place the sets of images in the folder ``'./Dataset/'``.
+
+The data structure should be followed like:
+```
+├── Dataset
+    ├── Gad-T2-PET
+         ├── Y_color
+             ├── 1.png
+             ├── 2.png
+             ├── ...
+         ├── other
+             ├── 1.png
+             ├── 2.png
+             ├── ...
+         ├── T2
+             ├── 1.png
+             ├── 2.png
+             ├── ...
+    ├── CT-T2-SPECT
+         ├── Y_color
+             ├── 1.png
+             ├── 2.png
+             ├── ...
+         ├── other
+             ├── 1.png
+             ├── 2.png
+             ├── ...
+         ├── T2
+             ├── 1.png
+             ├── 2.png
+             ├── ...
+```
+The user also modify the ./util/loader.py according to their preferences。
 
 ### 🏄 3. Inference
 
@@ -48,8 +80,6 @@ If you want to obtain the dual-modal medical image fusion results in our paper, 
 CUDA_VISIBLE_DEVICES=0 python Test_DMIF.py
 ```
 
-Then, the fused results will be saved in the ``'./output/recon/'`` folder.
-
 Similarly,  please run
 
 ```
@@ -57,6 +87,8 @@ CUDA_VISIBLE_DEVICES=0 python Test_v2.py
 ```
 
 to obtain the Tri-modal medical image fusion results.
+
+The user can modify the argument args.save_dir to locate their own save path.
 
 ## 🙌 PRRGAN
 
