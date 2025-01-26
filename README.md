@@ -1,4 +1,4 @@
-# JBHI 2024
+# Journal of Biomedical Health and Informatic 2024
 
 Codes for ***Generative Adversarial Network for Trimodal Medical Image Fusion using Primitive Relationship Reasoning. (JBHI 2024)***
 
